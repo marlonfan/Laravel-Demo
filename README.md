@@ -1,8 +1,6 @@
 # 最初的梦想: 无心阁
 
-## TO DO LIST
-
-开始咯~  改版地址:[点这里](https://github.com/MarlonFan/Laravel-Demo)
+## To Do List
 
 - 使用``Laravel 5.1``重整逻辑
 - 数据库更改使用migration
