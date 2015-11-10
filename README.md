@@ -1,5 +1,14 @@
 # 最初的梦想: 无心阁
 
+## TO DO LIST
+
+开始咯~  改版地址:[点这里](https://github.com/MarlonFan/Laravel-Demo)
+
+- 使用``Laravel 5.1``重整逻辑
+- 数据库更改使用migration
+- 使用fis来做前端相关开发工作
+
+
 ## 写在最前面
 
 无意中翻出了刚从学校出来的一个自己学习laravel的时候写的一个博客.  很low. 恩. 很low. 却让我热泪盈眶. 快两年,真的. 迷失了很多.
