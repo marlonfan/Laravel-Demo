@@ -1,27 +1,33 @@
-## Laravel PHP Framework
 
-[![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
-[![Total Downloads](https://poser.pugx.org/laravel/framework/d/total.svg)](https://packagist.org/packages/laravel/framework)
-[![Latest Stable Version](https://poser.pugx.org/laravel/framework/v/stable.svg)](https://packagist.org/packages/laravel/framework)
-[![Latest Unstable Version](https://poser.pugx.org/laravel/framework/v/unstable.svg)](https://packagist.org/packages/laravel/framework)
-[![License](https://poser.pugx.org/laravel/framework/license.svg)](https://packagist.org/packages/laravel/framework)
+ List
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable, creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as authentication, routing, sessions, queueing, and caching.
+- 使用``Laravel 5.1``重整逻辑
+- 数据库更改使用migration
+- 使用fis来做前端相关开发工作
 
-Laravel is accessible, yet powerful, providing powerful tools needed for large, robust applications. A superb inversion of control container, expressive migration system, and tightly integrated unit testing support give you the tools you need to build any application with which you are tasked.
 
-## Official Documentation
+## 写在最前面
 
-Documentation for the framework can be found on the [Laravel website](http://laravel.com/docs).
+无意中翻出了刚从学校出来的一个自己学习laravel的时候写的一个博客.  很low. 恩. 很low. 却让我热泪盈眶. 快两年,真的. 迷失了很多.
 
-## Contributing
+## 初衷
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](http://laravel.com/docs/contributions).
+为了进入web开发这个行业,瞄准了一家外包公司.  恩. 他们是用Laravel的.
 
-## Security Vulnerabilities
+## 过程
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell at taylor@laravel.com. All security vulnerabilities will be promptly addressed.
+恩, 我记得当时laravel的路由简直让我抓狂。 刚开始不理解路由为神马这样写！！！我清楚的记得写这几行简单的路由, 让我用了一天半的时间去琢磨. 恩. 每一个蓬头垢面的.一个人趴在电脑前的日子, 回头想想很幸福.
 
-### License
+## 结果
 
-The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
+结果？  当然是进去了. 恩. 很感谢@harryxu.  教了我很多东西. 让我在这条路上越走越远.
+
+## 计划
+
+之后, 想把这个博客重构一遍. 恩. 让它成为一个自己心中完美的样子.
+
+
+# END
+
+感谢在我生命中出现的你.
+
