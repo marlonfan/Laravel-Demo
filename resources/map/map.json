@@ -1,7 +1,7 @@
 {
     "res": {
-        "page/about.blade.php": {
-            "uri": "about.blade.php",
+        "desktop/about/about.blade.php": {
+            "uri": "about/about.blade.php",
             "type": "php"
         },
         "widget/layout/2-cols-with-left.blade.php": {
@@ -219,33 +219,33 @@
             "uri": "/widget/footer/footer.blade.php",
             "type": "php"
         },
-        "page/index.blade.php": {
-            "uri": "index.blade.php",
+        "desktop/home/index.blade.php": {
+            "uri": "home/index.blade.php",
             "type": "php",
             "deps": [
-                "page/index.js"
+                "desktop/home/javascripts/index.js"
             ]
         },
         "widget/layout/front.blade.php": {
             "uri": "/widget/layout/front.blade.php",
             "type": "php"
         },
-        "page/index.js": {
-            "uri": "/page/index.js",
+        "desktop/home/javascripts/index.js": {
+            "uri": "/desktop/home/javascripts/index.js",
             "type": "js",
             "extras": {
-                "moduleId": "page/index"
+                "moduleId": "desktop/home/javascripts/index"
             },
             "deps": [
                 "components/jquery/jquery.js",
-                "static/libs/alert.js"
+                "static/libs/alert/alert.js"
             ]
         },
-        "static/libs/alert.js": {
-            "uri": "libs/alert.js",
+        "static/libs/alert/alert.js": {
+            "uri": "libs/alert/alert.js",
             "type": "js",
             "extras": {
-                "moduleId": "static/libs/alert"
+                "moduleId": "static/libs/alert/alert"
             },
             "deps": [
                 "components/bootstrap/bootstrap.js",
