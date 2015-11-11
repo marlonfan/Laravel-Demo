@@ -146,7 +146,8 @@ return [
         App\Providers\RouteServiceProvider::class,
        
         /* 自己的 */
-	Barryvdh\LaravelIdeHelper\IdeHelperServiceProvider::class,
+	    Barryvdh\LaravelIdeHelper\IdeHelperServiceProvider::class,
+        Fis\Providers\ResourceProvider::class,
     ],
 
     /*
@@ -195,7 +196,7 @@ return [
         'URL'       => Illuminate\Support\Facades\URL::class,
         'Validator' => Illuminate\Support\Facades\Validator::class,
         'View'      => Illuminate\Support\Facades\View::class,
-
+        'Fis'       => Fis\Facades\Fis::class,
     ],
 
 ];

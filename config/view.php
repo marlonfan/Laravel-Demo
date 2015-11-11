@@ -29,5 +29,6 @@ return [
     */
 
     'compiled' => realpath(storage_path('framework/views')),
+    'mapPath'  => realpath(base_path('resources/map')),
 
 ];
